@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Henrique Coppola</h1>
 <h3 align="center">I have always been passionate about technology and after eight years working in the administrative area, I decided to change my area and become a developer. I am currently studying Software Development at Trybe, in the process of becoming a Full-Stack developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hvenses" alt="hvenses" /></a> </p>
-
 - 🔭 I’m currently working on **Recipes App**
 
 - 🌱 I’m currently learning **SQL**
