@@ -19,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hvenses&show_icons=true&locale=en&layout=compact" alt="hvenses" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvenses&show_icons=true&locale=en" alt="hvenses" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hvenses&" alt="hvenses" /></p>
