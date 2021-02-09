@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Henrique Coppola</h1>
 
-I have always been passionate about technology and after eight years working in the administrative area, I decided to change and become a developer. I am currently studying Software Development at [Trybe](https://www.betrybe.com/), in the process of becoming a Full-Stack developer.
+I have always been passionate about technology and after eight years working in the administrative area, I decided to change and become a developer. 
+
+I am currently studying Software Development at [Trybe](https://www.betrybe.com/), in the process of becoming a Full-Stack developer.
 
 - 🔭 I’m currently working on [Recipes App](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-21)
 
