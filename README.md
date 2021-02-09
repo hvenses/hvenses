@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Henrique Coppola</h1>
-<h4 align="center">I have always been passionate about technology and after eight years working in the administrative area, I decided to change and become a developer.<br> I am currently studying Software Development at Trybe, in the process of becoming a Full-Stack developer.</h3>
+<h4 align="left">I have always been passionate about technology and after eight years working in the administrative area, I decided to change and become a developer.<br> I am currently studying Software Development at Trybe, in the process of becoming a Full-Stack developer.</h3>
 
 - 🔭 I’m currently working on [Recipes App](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-21)
 
