@@ -4,7 +4,7 @@ I have always been passionate about technology and after eight years working in 
 
 I am currently studying Software Development at [Trybe](https://www.betrybe.com/), in the process of becoming a Full-Stack developer.
 
-- 🔭 I’m currently working on [Recipes App](https://github.com/tryber/sd-07-project-recipes-app/tree/main-group-21)
+- 🔭 I’m currently working on [One for All](https://github.com/tryber/sd-07-mysql-one-for-all/pull/44) project.
 
 - 🌱 I’m currently learning **SQL**
 
