@@ -6,7 +6,7 @@ I am currently studying Software Development at [Trybe](https://www.betrybe.com/
 
 - 🔭 I’m currently working on [One for All](https://github.com/tryber/sd-07-mysql-one-for-all/pull/44) project.
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **MongoDB**
 
 - 📫 How to reach me **hvenses@hotmail.com**
 
