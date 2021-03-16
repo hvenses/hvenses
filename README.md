@@ -4,7 +4,7 @@ I have always been passionate about technology and after eight years working in 
 
 I am currently studying Software Development at [Trybe](https://www.betrybe.com/), in the process of becoming a Full-Stack developer.
 
-- 🔭 I’m currently working on [One for All](https://github.com/tryber/sd-07-mysql-one-for-all/pull/44) project.
+- 🔭 My Last project was the [Data Flights](https://github.com/tryber/sd-07-mongodb-dataflights/compare/master...coppola-mongodb-dataflights) project.
 
 - 🌱 I’m currently learning **MongoDB**
 
