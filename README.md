@@ -6,9 +6,9 @@ I am currently studying Software Development at [Trybe](https://www.betrybe.com/
 
 - 🔭 My Last project was the [Data Flights](https://github.com/tryber/sd-07-mongodb-dataflights/compare/master...coppola-mongodb-dataflights) project.
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **MongoDB**.
 
-- 📫 How to reach me **hvenses@hotmail.com**
+- 📫 How to reach me **hvenses@hotmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
