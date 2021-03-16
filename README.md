@@ -8,7 +8,7 @@ I am currently studying Software Development at [Trybe](https://www.betrybe.com/
 
 - 🌱 I’m currently learning **MongoDB**
 
-- 📫 How to reach me **hvenses@hotmail.com** / [LinkedIn](https://www.linkedin.com/in/henriquecoppola/).
+- 📫 How to reach me **hvenses@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
