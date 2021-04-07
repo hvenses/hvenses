@@ -4,9 +4,9 @@ I have always been passionate about technology and after eight years working in 
 
 I am currently studying Software Development at [Trybe](https://www.betrybe.com/), in the process of becoming a Full-Stack developer.
 
-- 🔭 My Last project was the [Data Flights](https://github.com/tryber/sd-07-mongodb-dataflights/compare/master...coppola-mongodb-dataflights) project.
+- 🔭 My Last project was the [Aggregations](https://github.com/tryber/sd-07-mongodb-aggregations/compare/master...coppola-mongodb-aggregations) based on MongoDB.
 
-- 🌱 I’m currently learning **MongoDB**.
+- 🌱 I’m currently learning **NodeJS**.
 
 - 📫 How to reach me **hvenses@hotmail.com**.
 
