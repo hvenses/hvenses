@@ -4,7 +4,7 @@ I have always been passionate about technology and after eight years working in 
 
 I am currently studying Software Development at [Trybe](https://www.betrybe.com/), in the process of becoming a Full-Stack developer.
 
-- 🔭 My Last project was the [Aggregations](https://github.com/tryber/sd-07-mongodb-aggregations/compare/master...coppola-mongodb-aggregations) based on MongoDB.
+- 🔭 My Last project was the [Crush Manager](https://github.com/tryber/sd-07-crush-manager/compare/master...coppola-sd-07-crush-manager) based on MongoDB.
 
 - 🌱 I’m currently learning **NodeJS**.
 
