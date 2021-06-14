@@ -4,7 +4,7 @@ I have always been passionate about technology and after eight years working in 
 
 I am currently studying Software Development at [Trybe](https://www.betrybe.com/), in the process of becoming a Full-Stack developer.
 
-- 🔭 My Last project was the [Trybeer](https://github.com/tryber/sd-07-trybeer/compare/master...main-group-15-back-req13).
+- 🔭 My Last project was the [Trybeer](https://github.com/hvenses/Trybeer).
 
 - 🌱 I’m currently learning **Sockets and MVC**.
 
