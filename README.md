@@ -21,6 +21,6 @@ I am currently studying Software Development at [Trybe](https://www.betrybe.com/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hvenses&show_icons=true&locale=en&layout=compact" alt="hvenses" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvenses)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvenses)](https://github.com/hvenses/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvenses&show_icons=true&locale=en" alt="hvenses" /></p>
