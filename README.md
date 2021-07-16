@@ -4,9 +4,9 @@ I have always been passionate about technology and after eight years working in 
 
 I am currently studying Software Development at [Trybe](https://www.betrybe.com/), in the process of becoming a Full-Stack developer.
 
-- 🔭 My Last project was the [Trybeer](https://github.com/hvenses/Trybeer).
+- 🔭 My Last group project was the [Trybeer](https://github.com/hvenses/Trybeer).
 
-- 🌱 I’m currently learning **Sockets and MVC**.
+- 🌱 I’m currently learning **Computer Science** and my most recent project was [Tech News](https://github.com/tryber/sd-07-tech-news/compare/main...coppola-tech-news) based on Web Crawling with Python.
 
 - 📫 How to reach me **hvenses@hotmail.com**.
 
