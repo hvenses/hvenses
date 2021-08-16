@@ -24,4 +24,6 @@ I am currently studying Software Development at [Trybe](https://www.betrybe.com/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvenses&show_icons=true&locale=en" alt="hvenses" /></p>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hvenses&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hvenses&show_icons=true&theme=radical)
