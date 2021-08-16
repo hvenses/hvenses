@@ -24,4 +24,4 @@ I am currently studying Software Development at [Trybe](https://www.betrybe.com/
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvenses&show_icons=true&locale=en" alt="hvenses" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hvenses)](https://github.com/hvenses/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=hvenses)
